@@ -10,7 +10,7 @@ body{
 .box{
     background-color: #94a2ae;
     text-align: center;
-    margin-inline: 30%;
+    margin-inline: 10%;
     margin-top: 8%;
     margin-bottom: 10%;
     padding-top: 2.0%;
@@ -45,13 +45,13 @@ h2{
 
 input{
     display:block;
-    margin: 8%; 
+    margin-top: 3%; 
+    margin-bottom: 5%;
     outline: unset;
     border-color: white;
     border-width: 2px;
     border-style: solid;
     border-radius: 10px;
-    padding-inline: 10%;
     padding-bottom: 4%;
     padding-top: 4%;
     background: none;
